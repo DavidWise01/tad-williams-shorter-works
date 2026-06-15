@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "rite-short-work",
+    "name": "Rite: Short Work",
+    "epithet": "the first gathering",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Rite: Short Work:TWS:aed75e⟧"
+  },
+  {
+    "slug": "a-stark-and-wormy-knight",
+    "name": "A Stark and Wormy Knight",
+    "epithet": "tales of fantasy, SF & suspense",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦A Stark and Wormy Knight:TWS:b55997⟧"
+  },
+  {
+    "slug": "the-very-best",
+    "name": "The Very Best of Tad Williams",
+    "epithet": "the career retrospective",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Very Best of Tad Williams:TWS:72eefa⟧"
+  },
+  {
+    "slug": "aquaman-sword-of-atlantis",
+    "name": "Aquaman: Sword of Atlantis",
+    "epithet": "his DC run",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Aquaman: Sword of Atlantis:TWS:c9991a⟧"
+  },
+  {
+    "slug": "the-next",
+    "name": "The Next",
+    "epithet": "a DC miniseries",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Next:TWS:3968b5⟧"
+  },
+  {
+    "slug": "flans-crows",
+    "name": "Flan's Crows",
+    "epithet": "the next world (forthcoming)",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Flan's Crows:TWS:3b5a9f⟧"
+  }
+]
