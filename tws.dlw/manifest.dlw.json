@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The short fiction, the Aquaman run, and the next horizon — the corners of a vast career, gathered in one wing.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 603,
+    "prev": "f043c3b9a51fda268578e11597d5bf5e398bfcc828dc163d311c1cc34ae8f18d",
+    "link": "00f44feb60e800f00b3b9e86b3c6ef00fbe69fda0e988d302b6eba4cfec44e6d",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
