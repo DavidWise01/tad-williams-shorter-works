@@ -11,9 +11,9 @@
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
   "chain": {
     "index": 603,
-    "prev": "f043c3b9a51fda268578e11597d5bf5e398bfcc828dc163d311c1cc34ae8f18d",
-    "link": "00f44feb60e800f00b3b9e86b3c6ef00fbe69fda0e988d302b6eba4cfec44e6d",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "735205000597fa4178173b6e6e1d53676a6f3aa74313fade1b969e2d75d27778",
+    "link": "3e0ca7cd0ba2cc49972b72bba94f51ac5c03185f79813c88252f8782269f0c6e",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
